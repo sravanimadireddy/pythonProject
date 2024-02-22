@@ -5,4 +5,4 @@ for i in range(1,101):
         if i % j == 0:
             count = count + 1
     if count == 2:
-        print(i, end =" ")
+        print(i, end =" ,")
