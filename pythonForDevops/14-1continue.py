@@ -7,7 +7,7 @@ It is specified that you have to do this using a loop and only one loop is allow
 '''
 
 # loop from 1 to 10
-for i in range(1, 11):
+for i in range(0, 11):
 
 	# If i is equals to 6,
 	# continue to next iteration
